@@ -1,0 +1,15 @@
+public class NervdenDorian {
+    }
+    public static void main (String{[]args}){
+        int Alter =0;
+        public class NervdenDorian(int a){
+            Alter = a;
+        }
+      NervDorian;
+      if (NervDorian < 20){
+        System.out.printlin("Du bist ein Baby")
+      }
+      else{
+        System.out.println("Stabil")
+      }
+    }
